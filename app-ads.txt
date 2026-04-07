@@ -17090,6 +17090,7 @@ bigo.sg, 23168827, DIRECT
 
 #meta
 facebook.com, 1787882338467584, DIRECT, c3e20eee3f780d68
+facebook.com, 1388100362727589, DIRECT, c3e20eee3f780d68
 
 #Yandex
 yandex.com, 312073073, DIRECT
